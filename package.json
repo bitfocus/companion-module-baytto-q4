@@ -1,6 +1,6 @@
 {
-	"name": "your-module-name",
-	"version": "0.1.0",
+	"name": "baytto-q4",
+	"version": "0.1.1",
 	"main": "main.js",
 	"scripts": {
 		"format": "prettier -w .",
@@ -16,6 +16,7 @@
 	},
 	"devDependencies": {
 		"@companion-module/tools": "^2.1.0",
+		"eslint": "^9.0.0",
 		"prettier": "^3.3.3"
 	},
 	"prettier": "@companion-module/tools/.prettierrc.json",
